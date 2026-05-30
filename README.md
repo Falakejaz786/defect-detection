@@ -97,7 +97,7 @@ The following metrics were used:
 Special focus was given to:
 
 [
-Recall = \frac{TP}{TP + FN}
+Recall = {TP}/{TP + FN}
 ]
 
 to ensure defect samples are not missed.
