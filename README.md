@@ -107,13 +107,13 @@ to ensure defect samples are not missed.
 ## Project Structure
 
 ```bash
-defect-detection-project/
+defect-detection/
 │
-├── defect_detection.py
+├── expected_submission(1).csv
 ├── train.csv
 ├── test.csv
-├── requirements.txt
-└── README.md
+├── sample_submission.csv
+└── source_code.py
 ```
 
 ---
